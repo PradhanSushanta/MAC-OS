@@ -21,10 +21,10 @@ const Dock = ({ windowsState, setWindowsState }) => {
                 onClick={() => { setWindowsState(state => ({ ...state, spotify: true })) }}
                 className="icon spotify"><img src="/doc-icons/spotify.svg" alt="" /></div>
             <div
-            onClick={()=>{window.open("mailto:ankur@example.com","_blank")}}
+            onClick={()=>{window.open("mailto:sushanta@example.com","_blank")}}
              className="icon mail"><img src="/doc-icons/mail.svg" alt="" /></div>
             <div 
-            onClick={()=>{window.open("https://www.linkedin.com/in/ankur-prajapati-177542231/","_blank")}}
+            onClick={()=>{window.open("hwww.linkedin.com/in/sushanta67","_blank")}}
             
             className="icon link"><img src="/doc-icons/link.svg" alt="" /></div>
             <div

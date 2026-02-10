@@ -31,8 +31,8 @@ Cloud: AWS, Azure, Heroku`
         experience: {
             description: 'Display work experience',
             usage: 'experience',
-            fn: () => `Senior Developer @ Tech Corp (2022 - Present)
-  - Led development of 5+ React applications
+            fn: () => `fullstack Developer @ Tech Corp (*** - **)
+  - Led development of web applications
   - Mentored junior developers
 
 Full Stack Developer @ Web Solutions (2020 - 2022)
@@ -42,7 +42,7 @@ Full Stack Developer @ Web Solutions (2020 - 2022)
         contact: {
             description: 'Get contact information',
             usage: 'contact',
-            fn: () => `Email: ankur@example.com
+            fn: () => `Email: hello@example.com
 Phone: +1 (555) 123-4567
 Location: San Francisco, CA`
         },
